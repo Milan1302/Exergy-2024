@@ -1,6 +1,4 @@
 import React, { useEffect } from 'react';
-import Landing from './components/Landing';
-import $ from 'jquery';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import { Routes, Route } from "react-router-dom";
@@ -15,11 +13,11 @@ function App() {
     <>
       {/* <Landing text="EXERGY$ECHOES OF EXOTHERMIA" /> */}
       <Routes>
-        <Route path='/' element={<Home />} />
-        <Route path='/competitions' element={<Competitions />} />
-        <Route path='/workshops' element={<Talks />} />
-        <Route path='/talks' element={<Talks />} />
-        <Route path='/gallery' element={<Gallery />} />
+        <Route path='/Exergy-2024' element={<Home />} />
+        <Route path='/Exergy-2024/competitions' element={<Competitions />} />
+        <Route path='/Exergy-2024/workshops' element={<Talks />} />
+        <Route path='/Exergy-2024/talks' element={<Talks />} />
+        <Route path='/Exergy-2024/gallery' element={<Gallery />} />
       </Routes>
     </>
   )
