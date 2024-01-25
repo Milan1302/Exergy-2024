@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react'
-import myimg from '../images/myimg.jpg';
 import $ from 'jquery';
 export default function CompetitionCard(props) {
     const [data, setData] = useState(Array(3).fill(false));
@@ -73,7 +72,7 @@ export default function CompetitionCard(props) {
     return (
         <div className='c  d-block'>
             <div className={"card m-auto " + q} >
-                <img src={myimg} className="card-img-top" alt="..." />
+                <img src={props.myimg} className="card-img-top" alt="..." />
                 <div className="card-body">
                     <h5 className="card-title gradient-text">{props.title}</h5>
                     <p className={"card-text " + n}>{props.text}</p>
