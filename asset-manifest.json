@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/Exergy-2024/static/css/main.be6c1712.css",
-    "main.js": "/Exergy-2024/static/js/main.ecc47bbb.js",
+    "main.js": "/Exergy-2024/static/js/main.1994cde5.js",
     "static/js/787.e1c87752.chunk.js": "/Exergy-2024/static/js/787.e1c87752.chunk.js",
     "static/media/landingvideo.mp4": "/Exergy-2024/static/media/landingvideo.bd8e493466f89aa25e83.mp4",
     "static/media/exergy wallpaper (2).jpg": "/Exergy-2024/static/media/exergy wallpaper (2).660e24c87e8717f62e6e.jpg",
+    "static/media/cipher.png": "/Exergy-2024/static/media/cipher.aab7eb803987ca1908b0.png",
     "static/media/gallery6.jpeg": "/Exergy-2024/static/media/gallery6.3b6cb1b3da0c6fcdf393.jpeg",
     "static/media/gallery9.jpeg": "/Exergy-2024/static/media/gallery9.10bb9e89262fc9425ba1.jpeg",
     "static/media/gallery15.jpeg": "/Exergy-2024/static/media/gallery15.4e24b6e10e816c908403.jpeg",
@@ -17,16 +18,18 @@
     "static/media/gallery16.jpeg": "/Exergy-2024/static/media/gallery16.25258b30590d4356690a.jpeg",
     "static/media/gallery3.jpeg": "/Exergy-2024/static/media/gallery3.3355f2eeb3bdb2e9ca6a.jpeg",
     "static/media/gallery12.jpeg": "/Exergy-2024/static/media/gallery12.23c0d18909d9717412e2.jpeg",
+    "static/media/case_study.jpg": "/Exergy-2024/static/media/case_study.4be709cd99583150a4be.jpg",
+    "static/media/optimization.jpg": "/Exergy-2024/static/media/optimization.599de78a2311b6515fcb.jpg",
     "static/media/myimg.jpg": "/Exergy-2024/static/media/myimg.1276ae8b140ca7505434.jpg",
     "static/media/gallery8.jpeg": "/Exergy-2024/static/media/gallery8.0e28d70c86e77bee9b91.jpeg",
     "static/media/timepass image.jpg": "/Exergy-2024/static/media/timepass image.9347af409f7a9b3adcf0.jpg",
     "index.html": "/Exergy-2024/index.html",
     "main.be6c1712.css.map": "/Exergy-2024/static/css/main.be6c1712.css.map",
-    "main.ecc47bbb.js.map": "/Exergy-2024/static/js/main.ecc47bbb.js.map",
+    "main.1994cde5.js.map": "/Exergy-2024/static/js/main.1994cde5.js.map",
     "787.e1c87752.chunk.js.map": "/Exergy-2024/static/js/787.e1c87752.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.be6c1712.css",
-    "static/js/main.ecc47bbb.js"
+    "static/js/main.1994cde5.js"
   ]
 }
